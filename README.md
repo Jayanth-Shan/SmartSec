@@ -108,9 +108,3 @@ The backend integrates a fine-tuned model trained on public vulnerability datase
 - Validate and sanitize all user-submitted targets and parameters. 
 - Enforce HTTPS and set strict CORS in production builds. 
 - Limit execution scope for any future auto-remediation scripts. 
-
-## License
-
-Specify your project license here (e.g., MIT). 
-
-How to use this: Replace your README.md with the above content, add a shields section if desired, and include a .env.example for contributors. If you want, share the repo URL and target audience, and this can be tailored further with badges, screenshots, and contribution guidelines.
