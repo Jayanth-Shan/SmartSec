@@ -1,0 +1,94 @@
+# =========================
+# === Python Backend ===
+# =========================
+
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+env/
+venv/
+ENV/
+.venv/
+
+# Environment variables and logs
+.env
+*.log
+*.db
+*.sqlite3
+
+# Django / Flask related
+instance/
+.mypy_cache/
+.pytest_cache/
+coverage/
+*.mo
+*.pot
+
+# Local settings
+config.yaml
+*.bak
+*.tmp
+
+# =========================
+# === Node/React Frontend ===
+# =========================
+
+# Dependency directories
+node_modules/
+bower_components/
+
+# Production build outputs
+dist/
+build/
+.cache/
+.vite/
+
+# Lock files
+*.lock
+bun.lockb
+yarn-error.log
+
+# Environment variables
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Temporary files
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+package-lock.json
+
+# =========================
+# === System / IDE Files ===
+# =========================
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# Editors
+.vscode/
+.idea/
+*.iml
+
+# =========================
+# === Git Files ===
+# =========================
+.git/
+.gitignore
+
