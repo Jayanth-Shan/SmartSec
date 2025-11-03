@@ -1,5 +1,3 @@
-Here’s a polished, GitHub-ready README.md you can drop into your repo. It fixes headings, adds badges, standardizes code blocks, clarifies setup, and formats tables for tech stack and roadmap.
-
 # SmartSec: AI-Powered Web Vulnerability Scanner
 
 SmartSec is a modular, web-based cybersecurity assistant that performs network vulnerability scans directly from the browser — no local installation required. It integrates traditional scanners (e.g., Nessus) with an AI backend that interprets results and provides actionable remediation guidance. 
